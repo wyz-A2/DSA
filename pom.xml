@@ -12,6 +12,7 @@
     <modules>
         <module>DataStructure</module>
         <module>Practice</module>
+        <module>Algorithm</module>
     </modules>
 
     <properties>
